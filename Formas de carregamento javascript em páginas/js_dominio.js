@@ -1,0 +1,1 @@
+console.log("Carregando Js via arquivo Exeterno mesmo domínio");
